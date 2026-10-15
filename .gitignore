@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Takeout raw data & recovery outputs
+MyActivity.json
+MeineAktivitaeten.json
+MeineAktivitäten.json
+recovery_output/
