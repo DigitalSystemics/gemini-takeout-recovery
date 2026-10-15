@@ -1,6 +1,6 @@
 # Gemini Takeout Recovery Tool
 
-Standalone Python tool to recover, chronologicalize, and structure Google Takeout chat exports (`MyActivity.json`). 
+Standalone Python tool to recover, chronologicalize, and structure Google Takeout chat exports (`MyActivity.json`).
 
 This utility transforms large session histories into clean, hierarchically structured Markdown documents and automatically isolates embedded source code blocks into modular files.
 
@@ -36,7 +36,7 @@ This tool provides a reliable path to full data sovereignty. It processes the ra
 3. Scroll down and check exclusively **Gemini Apps**.
 4. Confirm **JSON** as the export format.
 5. Create the export and download the resulting archive.
-6. Extract the archive; your target file is `MeineAktivitäten.json`.
+6. Extract the archive; your target file is `MyActivity.json`.
 
 ---
 
